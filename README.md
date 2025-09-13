@@ -26,4 +26,4 @@ python ngl_bomber.py
 # CARA PAKAI
 Setelah Menjalankan Command `python ngl_bomber.py` Maka Kamu Akan Diminta Untuk Memasukkan Username Ngl Target. Setelah Itu Kamu Akan Diminta Memasukkan Isi Pesan Yang Akan Dikirim Ke Ngl Target Dan Memasukkan Jumlah Pesan Yang Akan Dikirim Ke Ngl Target Untuk Membanjiri Kolom Pesan Target
 
-<h1 align="center"><code>HASIL</code></h1> <p align="center"> <img src="https://github.com/DaemonTechX/ngl_bomber/blob/main/ngl_bomb.png" width="590"><br><br>
+<h1 align="center"><code>HASIL</code></h1> <p align="center"> <img src="https://github.com/DaemonTechX/ngl_bomber/blob/main/hasil.png" width="590"><br><br>
