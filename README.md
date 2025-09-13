@@ -19,7 +19,6 @@ python ngl_bomber.py
 rm -rf ngl_bomber
 git clone https://github.com/DaemonTechX/ngl_bomber
 cd ngl_bomber
-git pull
 python ngl_bomber.py
 ```
 
