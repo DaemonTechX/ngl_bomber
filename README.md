@@ -1,2 +1,3 @@
-# ngl_bomber
-Mengirim Pesan Secara Terus Menerus Dan Cepat Ke Akun Ngl Seseorang
+<h1 align="center"><code>NGL BOMBER</code></h1> <p align="center"> <img src="https://github.com/Arby-Hex/ngl_bomber/blob/main/ngl_bomb.png" width="590"><br><br>.
+  
+**NGL bomber adalah alat atau skrip yang digunakan untuk mengirimkan pesan anonim dalam jumlah besar (spam) ke tautan/akun NGL atau layanan pesan anonim lainnya, dengan tujuan membanjiri atau mengganggu penerima.**
